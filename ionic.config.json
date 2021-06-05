@@ -1,0 +1,8 @@
+{
+  "name": "SpendCheck",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "94e364cc"
+}
